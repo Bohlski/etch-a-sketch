@@ -1,0 +1,9 @@
+body {
+	margin: 0;
+}
+
+.container {
+	width: 640px;
+	height: 640px;
+	font-size: 0;
+}
